@@ -1,4 +1,4 @@
-{% include button.html button_name="My Button" button_class="primary" %}
+{% include button.html url="http://www.google.com" button_name="Google" button_class="primary" %}
 
 ## Welcome to GitHub Pages
 
