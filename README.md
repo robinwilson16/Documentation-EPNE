@@ -1,4 +1,4 @@
-{% include button.html url="http://www.google.com" %}
+[Click me](http://www.google.com){: .btn}
 
 ## Welcome to GitHub Pages
 
