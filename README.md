@@ -1,4 +1,4 @@
-[Click me](http://www.google.com){: .btn}
+{% include button.html button_name="My Button" button_class="primary" %}
 
 ## Welcome to GitHub Pages
 
