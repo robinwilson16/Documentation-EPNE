@@ -1,1 +1,1 @@
-# [CLick Here to Access MIS Hub Reports](http://besql02/reports/)
+# [Click Here to Access MIS Hub Reports](http://besql02/reports/)
